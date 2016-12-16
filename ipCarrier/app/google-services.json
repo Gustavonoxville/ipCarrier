@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "508760655595",
+    "firebase_url": "https://ipcarrier-149818.firebaseio.com",
+    "project_id": "ipcarrier-149818",
+    "storage_bucket": "ipcarrier-149818.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508760655595:android:1c4bab8522bed54d",
+        "android_client_info": {
+          "package_name": "easii.br.com.ipcarrier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508760655595-ge1nq04lig6tdii7j6m0f4i94h4jthoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASd0VT8Nd22lu7PSMp7p1CP4ZKD44u7yQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
